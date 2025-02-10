@@ -55,6 +55,3 @@ The age and gender detection model, trained on the UTKFace dataset, can accurate
 
 - The UTKFace dataset used in this project was sourced from Kaggle: [UTKFace Dataset](https://www.kaggle.com/jangedoo/utkface-new).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
